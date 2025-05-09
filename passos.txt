@@ -1,9 +1,9 @@
-git config --global user.name CapivaraCar1oca
-git config --global user.email vitorhenriquemartins05@gmail.com
+git config --global user.name LuizRTz
+git config --global user.email luizotaviosifrade10@gmail.com
 
-npx create-expo-app@latest ChickenJrShoppingList --template blank
+npx create-expo-app@latest ListadeCompras --template blank
 
-cd ChickenJrShoppingList
+cd ListadeCompras
 npm i
 
 npx expo start --localhost --android

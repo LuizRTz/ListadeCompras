@@ -13,7 +13,7 @@ export default function Welcome() {
       </View>
       <View style={styles.content}>
         <Text style={styles.title}>
-          Chicken's Jr Shopping List
+          Lista de Compras
         </Text>
         <Text style={styles.text}>
           Monte sua lista de compras e não esqueça mais o que precisa comprar ao sair de casa!!!
@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#dadada',
     borderTopRightRadius: 25,
-    BorderTopLeftRadius: 25,
+    borderTopLeftRadius: 25,
     paddingHorizontal: '5%'
   },
   title: {
